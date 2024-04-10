@@ -10,7 +10,7 @@ function hard_redirect() {
 
     // Define a hard-coded mapping of 'hr_id' values to URL slugs.
     $id_paths = [
-        1 => '/sample-page/',
+		1 => '/sample-page-with-a-super-long-and-ugly-url-slug/',
 		2 => 'https://google.com',
 		3 => 'https://www.dropbox.com/s/2q9dtbklxgmvwh0/the-xprepper-system.pdf?dl=0',
     ];
